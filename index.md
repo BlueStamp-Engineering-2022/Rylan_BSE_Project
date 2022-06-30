@@ -1,7 +1,7 @@
 ﻿# RetroPie Retro Game Emulator
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| Rylan Kuo | California High School | Electrical Engineering | Incoming Sophmore |
+| Rylan | California High School | Electrical Engineering | Incoming Sophmore |
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
