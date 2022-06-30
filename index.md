@@ -1,5 +1,5 @@
 ﻿# RetroPie Retro Game Emulator
-The retropie does how the title sounds. It emulates retro video games from consoles like gameboy, nes, nintendo 64, and playstation.
+The retropie does how the title sounds. It emulates retro video games from consoles like gameboy, nes, nintendo 64, and playstation. It does this through a raspberry pi in my project but you could also use retropie on pc.
 
 | Rylan | California High School | Electrical Engineering | Incoming Sophmore |
 
