@@ -5,6 +5,12 @@ The retropie does how the title sounds. It emulates retro video games from conso
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
+## Second Milestone
+
+My second milestone was making a custom controller to play my retro games with. To do this I used an Arduino Micro, analog joysticks, and buttons. I placed these components where I wanted onto a breadboard. I learned about wiring and how to code using the Arduino IDE. At first I struggled because I was using an Arduino Uno which is not recognized as a HID device. HID stands for "Human Interface Device" which represents things like keyboards, mice, and controllers. So I had to completely restart my project on a Arduino Micro. But even after switiching my struggle did not stop, the usb port on 2 seperate Micros had snapped off meaning I had to use a new Arduino a total of 4 times. What I enjoyed was the wiring, it was really interesting and fun to set up. I plan to move all of my components to a circuit board for the controller to be more comfortable to hold and stable.
+
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1657320172/video_to_markdown/images/youtube--TQwm_OvWpqA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=TQwm_OvWpqA "Second Milestone")
+
 ## First Milestone
 
 My first milestone was getting retropie onto my raspberry pi. To do this I had to install a raspberry pi imager. This is becuase I wanted to use a different os from raspberry's own os. Through this I had to load retropie onto a sd card which I would then put into my raspberry pi to run retropie. I used a thumbdrive to then install the games I wanted to play onto the raspberry pi. The part I enjoyed most so far was just seeing these retro games running smoothly with no problems and then finally getting to play these games. The hardest part about this was getting retropie to boot on the raspberry pi. What I plan to do for my next milestone is to make my own controller to play these games with.
